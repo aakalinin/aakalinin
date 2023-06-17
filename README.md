@@ -3,7 +3,8 @@
 #### :zap: Analyzing electrical equipment operational data, developing measures to increase reliability and decrease OPEX
 
 #### :telescope: My stack:
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Statsmodels, SciPy)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, SciPy)
+- ML libraries & tools (Scikit-learn, XGBoost, LightGBM, Keras, Tensorflow, Arch, Surprise)
 - SQL (PostgreSQL, MySQL, SQLAlchemy)
 - Power BI, Looker studio
 - Git
