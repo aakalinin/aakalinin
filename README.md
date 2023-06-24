@@ -4,7 +4,7 @@
 
 #### :telescope: My stack:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, SciPy)
-- ML libraries & tools (Scikit-learn, XGBoost, LightGBM, Keras, OpenCV, Arch, Surprise)
+- ML libraries & tools (Scikit-learn, Keras, OpenCV, Arch, Surprise)
 - SQL (PostgreSQL, MySQL, SQLAlchemy)
 - Power BI, Looker studio
 - Git
